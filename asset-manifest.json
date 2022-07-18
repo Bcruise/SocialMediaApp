@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SocialMediaApp/static/css/main.7073f098.css",
+    "main.js": "/SocialMediaApp/static/js/main.ed474444.js",
+    "static/media/Untitled.png": "/SocialMediaApp/static/media/Untitled.19d2d668d07609db9ee4.png",
+    "static/media/CryptoUntitled.png": "/SocialMediaApp/static/media/CryptoUntitled.54140b52859ab782393f.png",
+    "index.html": "/SocialMediaApp/index.html",
+    "main.7073f098.css.map": "/SocialMediaApp/static/css/main.7073f098.css.map",
+    "main.ed474444.js.map": "/SocialMediaApp/static/js/main.ed474444.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7073f098.css",
+    "static/js/main.ed474444.js"
+  ]
+}
