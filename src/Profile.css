@@ -1,0 +1,64 @@
+.profile-container {
+    padding: 1.5vw 15vw 1.5vw 15vw;
+}
+
+.profile-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.p-span-username {
+    font-size: 30px;
+    font-weight: 600;
+    margin-left: 1.5vw;
+}
+
+.p-links-spans {
+    color: grey;
+    cursor: pointer;
+    font-weight: 600;
+    margin: 2px 20px 0px 20px;
+}
+
+.p-links-spans-blue {
+    color: rgb(13, 110, 253);
+    cursor: pointer;
+    font-weight: 600;
+    margin: 2px 20px 0px 20px;
+}
+
+.p-username {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.p-image-circle {
+    height: 6vw;
+    width: 6vw;
+    border-radius: 50%;
+    background-color: grey;
+    display: flex;
+    align-items: center;
+}
+
+.p-icons-user {
+    height: 8vh;
+    width: 8vw;
+}
+
+.p-icons-pen {
+    color: black;
+    margin-right: 10px;
+}
+
+.p-edit-profile-button {
+    height: 75%;
+    background-color: rgba(108, 117, 125, 0.25);
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-weight: 600;
+    border: none;
+}

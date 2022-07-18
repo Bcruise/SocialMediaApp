@@ -1,0 +1,28 @@
+.g-title {
+    font-size: 20px;
+    font-weight: 600;
+    color: grey;
+}
+
+.g-plus-circle {
+    height: 25px;
+    width: 25px;
+    background-color: rgba(220, 220, 220, 0.6);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 15px;
+}
+
+.g-plus {
+    font-weight: 500;
+    font-size: 25px;
+    padding-bottom: 5px;
+}
+
+.g-plus-div {
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
+}

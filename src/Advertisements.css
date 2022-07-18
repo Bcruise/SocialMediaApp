@@ -1,0 +1,53 @@
+.ad-sponsored {
+    font-weight: 600;
+    font-size: 20px;
+    color: grey;
+}
+
+.ad-product-image-one, .ad-product-image-two {
+    height: 7.5vw;
+    width: 7.5vw;
+}
+
+.project-one, .project-two {
+    margin-top: 2vw;
+    display: flex; 
+    flex-direction: row;
+}
+
+.project-one-text, .project-two-text {
+    margin-left: 2vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.project-one-text-one, .project-two-text-one {
+    width: 15vw;
+    font-weight: 500;
+}
+
+.project-one-text-two, .project-two-text-two {
+    font-size: 13px;
+    color: grey;
+}
+
+.a-add-message {
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.2);
+    position: absolute;
+    right: 40px;
+    bottom: 40px;
+    cursor: pointer;
+}
+
+.a-icons-message {
+    height: 20px;
+    width: 20px;
+}

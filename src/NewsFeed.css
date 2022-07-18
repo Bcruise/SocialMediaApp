@@ -1,0 +1,71 @@
+.nf-image-circle {
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    margin-left: 1.5vw;
+    padding-left: 7.5px;
+}
+
+.nf-icon-one, .nf-icon-two, .nf-icon-three {
+    height: 20px;
+    width: 20px;
+}
+
+.nf-icon-one {
+    color: salmon;
+}
+
+.nf-icon-two {
+    color: greenyellow;
+}
+
+.nf-icon-three {
+    color: gold;
+}
+
+.nf-input-div-div {
+    background-color: white;
+    width: auto;
+}
+
+.nf-input-div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.nf-input {
+    border: none;
+    width: 70%;
+    background-color: rgba(220,220,240, 0.3);
+    height: 42.5px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.nf-hr {
+    margin-top: 0;
+}
+
+.nf-icon-span-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0px 30px 15px 30px;
+}
+
+.nf-icon-span {
+    font-size: 13px;
+    margin-left: 5px;
+    color: grey;
+    font-weight: 600;
+}
+
+.nf-paper-plane {
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+}

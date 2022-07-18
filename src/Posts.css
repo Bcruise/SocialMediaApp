@@ -1,0 +1,45 @@
+.po-div-main {
+    border-radius: 3px;
+    height: auto;
+}
+
+.po-image-circle {
+    height: 3.5vw;
+    width: 3.5vw;
+    border-radius: 50%;
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    margin-left: 1.5vw;
+}
+
+.po-icons-user {
+    height: 3vh;
+    width: 3vw;
+}
+
+.po-top {
+    display: flex;
+    flex-direction: row;
+}
+
+.po-span-div {
+    display: flex;
+    flex-direction: column;
+}
+
+.po-top-username {
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.po-top-date {
+    font-size: 12px;
+    color: grey;
+    font-weight: 500;
+}
+
+.po-main-post {
+    margin-left: 1.5vw;
+}

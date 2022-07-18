@@ -1,0 +1,66 @@
+.su-container {
+    background-color: white;
+    height: auto;
+    position: absolute;
+    width: 35vw;
+    border-radius: 10px;
+    top: 1vh;
+}
+
+.su-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.su-name-inputs {
+    width: 47.5%;
+    background-color: rgba(210, 210, 210, 0.3);
+    border: 1px solid rgb(210, 210, 210);
+    border-radius: 5px;
+}
+
+.su-detail-inputs {
+    background-color: rgba(210, 210, 210, 0.3);
+    border: 1px solid rgb(210, 210, 210);
+    border-radius: 5px;
+}
+
+.su-small-text {
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.su-radios-main-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.su-selects-div {
+    width: 30%;
+}
+
+.su-selects-main-div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.su-radios-div {
+    border: 1px solid rgb(210, 210, 210);
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.su-xmark {
+    position: absolute;
+    right: 0;
+    margin-right: 15px;
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+}
+
+.su-details {
+    font-size: 10px;
+}
